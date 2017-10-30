@@ -4,6 +4,8 @@ My name is Chen Bo Ru, and this is my [FACEBOOK](https://www.facebook.com/profil
 
 ### My favorite Cartoon
 <img src="https://secure.parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2010/09/db309309LARGE.jpg">
+<p></p>
+
 Duffy is a Disney character that can be found at the Tokyo Disney Resort.
 
 ```markdown
