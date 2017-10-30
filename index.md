@@ -9,21 +9,10 @@ My name is Chen Bo Ru, and this is my [FACEBOOK](https://www.facebook.com/profil
 Duffy is a Disney character that can be found at the Tokyo Disney Resort.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The Story of Duffy the Disney Bear
+One day, Mickey Mouse was getting ready to set sail on a long sea voyage. Minnie Mouse made him a special teddy bear to take with him so he would never be lonely. Minnie presented her hand sewn bear to Mickey in a duffel bag. Mickey loved the bear and named him Duffy.
+As Mickey and Duffy sailed on their journey, they visited all sorts of exciting places and made new friends along the way. At the end of their travels, they sailed back home for a wonderful reunion with Minnie.
+Mickey and Duffy shared their magical memories and photos with Minnie, who was thrilled that Duffy was such a great friend and companion for Mickey.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
