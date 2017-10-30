@@ -1,7 +1,11 @@
 ## Welcome to My Page
 
 My name is Chen Bo Ru, and this is my [FACEBOOK](https://www.facebook.com/profile.php?id=100002423137490&ref=bookmarks), you con use it to know me and contact me.
-
+```markdown
+My Birthday:1997/05/08
+Constellation:Taurus
+Relationship:single
+```
 ### My favorite Cartoon
 <img src="https://secure.parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2010/09/db309309LARGE.jpg">
 <p></p>
@@ -15,12 +19,3 @@ As Mickey and Duffy sailed on their journey, they visited all sorts of exciting 
 Mickey and Duffy shared their magical memories and photos with Minnie, who was thrilled that Duffy was such a great friend and companion for Mickey.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chenboru0508/Chenboru0508/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
