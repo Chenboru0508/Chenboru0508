@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/Chenboru0508/Chenboru0508/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Chen Bo Ru, and this is my [FACEBOOK](https://www.facebook.com/profile.php?id=100002423137490&ref=bookmarks), you con use it to know me and contact me.
 
 ### Markdown
 
